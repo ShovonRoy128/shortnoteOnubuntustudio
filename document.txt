@@ -1,0 +1,20 @@
+*ubuntu studio
+-Linux based
+-Free and open source software
+-A community project
+-Need for any type of media content creation
+-Has different types of tools:
+ -Audio:JACK,Ardour(recording,mixing etc.)
+ -Graphics:Blender(3D content creation),Inkscape(vector graphics editor),GIMP(similar to photoshop),MyPaint(digital painting tool),PikoPixel
+ -Video:Openshot(video editor for Linux),FFMPEG
+ -Photography:Darktable,Shotwell
+ -Publuishing:Calibre,Scribus,LiberOffice
+
+
+
+------------------------------------------------------------------------------------------------
+*ubuntu studio audio handbook
+Kindle E-reader(Price: $79.99, $99.99, $249.99)
+--Best for booklovers
+--Reads like a book
+--Has built-in audible
