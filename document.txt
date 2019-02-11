@@ -7,7 +7,7 @@
  -Audio:JACK,Ardour(recording,mixing etc.)
  -Graphics:Blender(3D content creation),Inkscape(vector graphics editor),GIMP(similar to photoshop),MyPaint(digital painting tool),PikoPixel
  -Video:Openshot(video editor for Linux),FFMPEG
- -Photography:Darktable,Shotwell
+ -Photography:Darktable,Shotwell(to organize photo gallery)
  -Publuishing:Calibre,Scribus,LiberOffice
 
 
@@ -18,3 +18,20 @@ Kindle E-reader(Price: $79.99, $99.99, $249.99)
 --Best for booklovers
 --Reads like a book
 --Has built-in audible
+
+------------------------------------------------------------------------------------------------
+*sound recording studio
+different instruments:
+-NEUMANN U87Ai(price: $3599)
+-AKG D88 S(price: $99)
+#Audio Interface
+-universal audio apollo 8 quad(price $2499)
+#4 Sharc Cards
+-Thunderbolt
+
+------------------------------------------------------------------------------------------------
+*E-CONTENT DEVELOPMENT
+-For making high quality, curriculam-based, interactive contents in different subjects.
+-Developing e-teaching materials.
+-A team is made which is leaded by subject matter expert.
+-e-Content module has different elements such as Objectives, Subject Mapping, Summary etc.
